@@ -95,12 +95,12 @@ A creative development sandbox focused on experimenting with innovative project 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CherryRambler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryRambler&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=CherryRambler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=CherryRambler&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CherryRambler&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=CherryRambler&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ A creative development sandbox focused on experimenting with innovative project 
   <a href="https://github.com/CherryRambler" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/CHERRYRAMBLER" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
