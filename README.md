@@ -12,27 +12,29 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXpsZmc3Z3R4bm9pZ3R4bm9pZ3R4bm9pZ3R4bm9pZ3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
-- 💻 Passionate about **Full Stack Development** and **AI Integration**
-- 🤖 Building projects that combine **modern web technologies with AI**
-- 🌱 Currently learning **React, Node.js, APIs, and scalable systems**
-- 🧠 Exploring emerging technologies through hands-on projects
-- 🎯 Goal: Build impactful digital products that solve real-world problems
-- ⚡ Fun fact: I love experimenting with ideas and transforming them into working applications
+* 💻 Passionate about **Full Stack Development** and **AI Integration**
+* 🤖 Building projects that combine **modern web technologies with AI**
+* 🌱 Currently learning **React, Node.js, APIs, and scalable systems**
+* 🧠 Exploring emerging technologies through hands-on projects
+* 🎯 Goal: Build impactful digital products that solve real-world problems
+* ⚡ Fun fact: I love experimenting with ideas and transforming them into working applications
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💡 Languages & Technologies
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,html,css,react,nodejs,git,github,vscode" />
 </p>
 
 ### 🚀 Currently Exploring
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,express,tailwind,firebase,python" />
 </p>
@@ -46,26 +48,24 @@
 <td width="50%">
 
 ### 🚀 Rocket Launch Optimizer
-A full-stack mission planning platform that analyzes orbital mechanics, weather conditions, and fuel efficiency to recommend optimal rocket launch windows.
+A full-stack mission planning platform that analyzes orbital mechanics, weather conditions, and fuel efficiency.
 
 **Tech Stack:** React • FastAPI • Tailwind • APIs
 
-🔗 <a href="https://github.com/CherryRambler/Rocket-launch-optimizer">View Project</a>
+🔗 [View Project](https://github.com/CherryRambler/Rocket-launch-optimizer)
 
 </td>
-
 <td width="50%">
 
 ### 💰 Crypto Atlas
-A crypto tracking platform with live market data, aggregated news feeds, and performance insights for 200+ cryptocurrencies.
+A crypto tracking platform with live market data, aggregated news feeds, and performance insights.
 
 **Tech Stack:** Node.js • Express • APIs • JavaScript
 
-🔗 <a href="https://github.com/CherryRambler/Crypto-Atlas">View Project</a>
+🔗 [View Project](https://github.com/CherryRambler/Crypto-Atlas)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
@@ -74,10 +74,9 @@ An interactive geographic data visualization and exploration platform designed f
 
 **Tech Stack:** JavaScript • APIs • Data Visualization
 
-🔗 <a href="https://github.com/CherryRambler/GeoPulse">View Project</a>
+🔗 [View Project](https://github.com/CherryRambler/GeoPulse)
 
 </td>
-
 <td width="50%">
 
 ### ⚡ Void Forge
@@ -85,7 +84,7 @@ A creative development sandbox focused on experimenting with innovative project 
 
 **Tech Stack:** JavaScript • Frontend Development
 
-🔗 <a href="https://github.com/CherryRambler/Void-Forge">View Project</a>
+🔗 [View Project](https://github.com/CherryRambler/Void-Forge)
 
 </td>
 </tr>
@@ -96,23 +95,13 @@ A creative development sandbox focused on experimenting with innovative project 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CherryRambler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryRambler&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CherryRambler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryRambler&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=CherryRambler&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CherryRambler&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🏆 Achievements & Learning
-
-- 🎓 Exploring AI, Cloud, and Full Stack technologies
-- 📚 Continuously learning through hands-on projects and certifications
-- 🛠️ Building real-world applications to strengthen problem-solving skills
-- 🚀 Focused on becoming a strong software engineer and AI-powered builder
 
 ---
 
@@ -120,11 +109,10 @@ A creative development sandbox focused on experimenting with innovative project 
 
 <p align="left">
   <a href="https://github.com/CherryRambler" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-CherryRambler-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
-
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -140,6 +128,6 @@ A creative development sandbox focused on experimenting with innovative project 
 
 <p align="center">
   <b>⭐ Thanks for visiting my profile! ⭐</b>
-  <br><br>
+  <br>
   <i>"Always building, always learning."</i>
 </p>
